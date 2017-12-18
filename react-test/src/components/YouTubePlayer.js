@@ -57,7 +57,7 @@ const styles = {
     /* Use 75% for 4:3 videos */
     height: 0,
     overflow: 'hidden',
-    width: '70%',
+    width: '100%',
     background: '#000',
     margin: '5px',
   },

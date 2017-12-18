@@ -212,8 +212,12 @@ class App extends Component {
             </div>
           </div>
 
-          <YouTubePlayer/>
-          <YouTubePlayer/>
+          <div className="row">
+          <div className="col-md-6">
+            <YouTubePlayer/>
+            <YouTubePlayer/>
+          </div>
+          </div>
 
           <div className="people-section padding-style-page">
             <div className="container section-header">
